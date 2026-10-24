@@ -1,23 +1,23 @@
 ```bash
-$ whoami
+JERUS@PUSA:~ $ whoami
 Jerusalem SanJose
 
-$ cat about.txt
+JERUS@PUSA:~ $ cat about.txt
 I like cats
 
-$ pwd
+JERUS@PUSA:~ $ pwd
 Batangas, PH @ 
 
-$ ls skills/
+JERUS@PUSA:~ $ ls skills/
 Rust | Golang | C
 
-$ cat learning.txt
-Currently learning {Typescript}
+JERUS@PUSA:~ $ cat learning.txt
+Currently learning Typescript
 
-$ cat interests.txt
+JERUS@PUSA:~ $ cat interests.txt
 I'm interested on system programming and embedded softwares
 ```
 
 ```bash
-$ Segfault exit code 0xC0000005
+JERUS@PUSA:~ $ Segfault exit code 0xC0000005
 ```
