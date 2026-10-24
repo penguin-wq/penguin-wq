@@ -28,7 +28,7 @@ _`Systems Programming • Low-Level Development • Game Development `_
 
 ```
 
-[![Email](https://img.shields.io/badge/email-you%40example.com-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:jerusalemsanjose@gmail.com)
+[![Email](https://img.shields.io/badge/jerusalemsanjose%40gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:jerusalemsanjose@gmail.com)
 [![Website](https://img.shields.io/badge/website-yoursite.dev-1f2328?style=flat-square&logo=firefox&logoColor=white)](https://example.dev)
 
 </div>
