@@ -1,23 +1,24 @@
-```bash
+# `JERUS@PUSA`
+
+```console
 JERUS@PUSA:~ $ whoami
 Jerusalem SanJose
 
 JERUS@PUSA:~ $ cat about.txt
-I like cats
+I like cats, low-level programming, and understanding how computers work.
 
 JERUS@PUSA:~ $ pwd
-Batangas, PH @ 
+Batangas, PH
 
 JERUS@PUSA:~ $ ls skills/
-Rust | Golang | C
+Go | Lua | C
 
 JERUS@PUSA:~ $ cat learning.txt
-Currently learning Typescript
+TypeScript | Rust
 
 JERUS@PUSA:~ $ cat interests.txt
-I'm interested on system programming and embedded softwares
+System programming | Operating systems | Kernel development | Embedded systems
+
+JERUS@PUSA:~ $ _
 ```
 
-```bash
-JERUS@PUSA:~ $ Segfault exit code 0xC0000005
-```
